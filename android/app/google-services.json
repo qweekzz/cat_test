@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222936374967",
+    "project_id": "cartest-app",
+    "storage_bucket": "cartest-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222936374967:android:427d0f5d1e4c11599cf732",
+        "android_client_info": {
+          "package_name": "com.example.car_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjrrzQ-AV2Z-XgdqKw3toHPgyDPkBVZDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

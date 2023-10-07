@@ -1,0 +1,8 @@
+flutter_native_splash:
+  image: assets/images/logo.png
+  color: "DB1F2C"
+  fill: false
+  fit: "contain"
+  alignment: "center"
+  splashTransition: "scale"
+  duration: 1000
